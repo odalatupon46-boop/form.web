@@ -1,0 +1,37 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+label,
+input {
+  display: block;
+  width: 100%;
+  padding: 8px;
+  box-sizing: border-box;
+  color: navy;
+}
+form {
+  width: 600px;
+  border: 1px solid navy;
+  margin: 40px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+label {
+  margin-left: -8px;
+  margin-top: -0cm;
+  font-size: 15px;
+}
+button{
+  width: 50%;
+  margin-left: 25%;
+  background-color: lightblue;
+  border-radius: 5px;
+  padding: 8px;
+  font-size: 12px;
+  border: 1;
+}
+h2 {
+  color:navy;
+}
